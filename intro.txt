@@ -1,0 +1,1 @@
+This project is used for learning and presentation Git and Github basics.
