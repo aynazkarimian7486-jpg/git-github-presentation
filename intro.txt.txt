@@ -1,0 +1,1 @@
+this project is used for learning amd presentation git and github basics.
