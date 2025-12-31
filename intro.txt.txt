@@ -1,2 +1,2 @@
 this project is used for learning amd presentation git and github basics. this change was made in a saparate branch for demonstration.
-hello github
+hello github by github
